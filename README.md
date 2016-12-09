@@ -4,7 +4,7 @@
 ##jpa-one-way-many2one 单向多对一操作
 ##jpa-one-way-one2many 单向一对多操作
 ##jpa-two-way-one2many 双向一对多操作
-##jpa-two-way-many2many 双向多对多操作
+##jpa-two-way-many2many 双向多对多操作、
 
 
 **如果觉得我的代码对您有帮助,请打赏支持。您的支持将鼓励我继续创作!谢谢！**
