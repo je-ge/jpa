@@ -26,7 +26,10 @@
 			<version>${hibernate.version}</version>
 		</dependency>
 
+<<<<<<< HEAD
 		<!-- 必须添加 -->
+=======
+>>>>>>> 7b7d75592bfbf082ad111d5a04bfb33826efe097
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
