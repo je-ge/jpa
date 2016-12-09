@@ -15,6 +15,7 @@
 		<module>jpa-two-way-one2many</module>		
 		<module>jpa-one-way-many2many</module>			
 		<module>jpa-two-way-many2many</module>
+		<module>jpa-one2one-primary-key</module>
 	</modules>
 
 
