@@ -10,7 +10,8 @@
 
 	<modules>
 		<module>jpa-single-table</module>
-		<module>jpa-one-way-many2one</module>
+		<module>jpa-one-way-many2one</module>		
+		<module>jpa-one-way-one2many</module>
 	</modules>
 
 
