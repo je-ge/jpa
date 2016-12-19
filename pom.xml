@@ -19,6 +19,7 @@
 		<module>jpa-one2one-foreign-key</module>
 		<module>jpa-one2one-join-table</module>		
 		<module>jpa-composite-id</module>
+		<module>jpa-composite-id-class</module>
 	</modules>
 
 
