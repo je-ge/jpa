@@ -20,6 +20,7 @@
 		<module>jpa-one2one-join-table</module>		
 		<module>jpa-composite-id</module>
 		<module>jpa-composite-id-class</module>
+		<module>jpa-embedded-id</module>
 	</modules>
 
 

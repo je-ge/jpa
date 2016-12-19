@@ -11,6 +11,7 @@
 ##jpa-one2one-join-table 双向一对一连接表操作
 ##jpa-composite-id 复合主键-2个@Id操作
 ##jpa-composite-id-class 复合主键-2个@Id+@IdClass操作
+##jpa-embedded-id 复合主键-@EmbeddedId+@Embeddable操作
 
 
 **如果觉得我的代码对您有帮助,请打赏支持。您的支持将鼓励我继续创作!谢谢！**
