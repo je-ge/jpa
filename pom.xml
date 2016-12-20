@@ -21,6 +21,7 @@
 		<module>jpa-composite-id</module>
 		<module>jpa-composite-id-class</module>
 		<module>jpa-embedded-id</module>
+		<module>jpa-enumerated</module>
 	</modules>
 
 
