@@ -29,10 +29,6 @@ public class MainTest {
   @Before
   public void setUp() throws Exception {
     entityManager = entityManagerFactory.createEntityManager();
-  }
-
-  @Test
-  public void persist() {
     Airline airline = new Airline();
     airline.setEndCity("SHA");
     airline.setStartCity("PEK");
@@ -45,7 +41,6 @@ public class MainTest {
 
   @Test
   public void find() {
-    persist();
 
     AirlinePK pk = new AirlinePK("PEK", "SHA");
     Airline airline = entityManager.find(Airline.class, pk);

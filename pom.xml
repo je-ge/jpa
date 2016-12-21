@@ -8,16 +8,29 @@
 	<packaging>pom</packaging>
 	<version>1.0.0.RELEASE</version>
 
+	<name>jpa-tutorial</name>
+	<url>http://blog.csdn.net/je_ge</url>
+
+	<developers>
+		<developer>
+			<id>je_ge</id>
+			<name>je_ge</name>
+			<email>1272434821@qq.com</email>
+			<url>http://blog.csdn.net/je_ge</url>
+			<timezone>8</timezone>
+		</developer>
+	</developers>
+
 	<modules>
 		<module>jpa-single-table</module>
-		<module>jpa-one-way-many2one</module>		
-		<module>jpa-one-way-one2many</module>	
-		<module>jpa-two-way-one2many</module>		
-		<module>jpa-one-way-many2many</module>			
+		<module>jpa-one-way-many2one</module>
+		<module>jpa-one-way-one2many</module>
+		<module>jpa-two-way-one2many</module>
+		<module>jpa-one-way-many2many</module>
 		<module>jpa-two-way-many2many</module>
 		<module>jpa-one2one-primary-key</module>
 		<module>jpa-one2one-foreign-key</module>
-		<module>jpa-one2one-join-table</module>		
+		<module>jpa-one2one-join-table</module>
 		<module>jpa-composite-id</module>
 		<module>jpa-composite-id-class</module>
 		<module>jpa-embedded-id</module>

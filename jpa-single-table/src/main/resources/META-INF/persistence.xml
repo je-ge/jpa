@@ -2,10 +2,6 @@
 	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
 	version="2.0">
 	<persistence-unit name="com.jege.jpa" transaction-type="RESOURCE_LOCAL">
-<<<<<<< HEAD
-=======
-		<provider>org.hibernate.ejb.HibernatePersistence</provider>
->>>>>>> 7b7d75592bfbf082ad111d5a04bfb33826efe097
 		<properties>
 			<property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver" />
 			<property name="hibernate.connection.url" value="jdbc:mysql:///jpa" />

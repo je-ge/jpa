@@ -8,7 +8,17 @@
 	<packaging>jar</packaging>
 
 	<name>jpa-enumerated</name>
-	<url>http://maven.apache.org</url>
+	<url>http://blog.csdn.net/je_ge</url>
+
+	<developers>
+		<developer>
+			<id>je_ge</id>
+			<name>je_ge</name>
+			<email>1272434821@qq.com</email>
+			<url>http://blog.csdn.net/je_ge</url>
+			<timezone>8</timezone>
+		</developer>
+	</developers>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -61,7 +61,6 @@ public class Many2ManyTest {
     t2.getStudents().add(s3);
 
     entityManager.getTransaction().commit();// 发出5条insert中间表
-    entityManager.close();
   }
 
   // t1老师教2个学生s1,s2
