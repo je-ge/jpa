@@ -22,6 +22,7 @@
 		<module>jpa-composite-id-class</module>
 		<module>jpa-embedded-id</module>
 		<module>jpa-enumerated</module>
+		<module>jpa-extents-single-table</module>
 	</modules>
 
 
