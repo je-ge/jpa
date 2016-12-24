@@ -1,7 +1,7 @@
 package com.jege.jpa.extend;
 
-import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
+import javax.persistence.Table;
 
 /**
  * @author JE哥
@@ -9,7 +9,7 @@ import javax.persistence.Entity;
  * @description:子类
  */
 @Entity
-@DiscriminatorValue("3")
+@Table(name = "t_student")
 public class Student extends Person {
   private String school;
 

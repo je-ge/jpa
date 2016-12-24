@@ -36,6 +36,7 @@
 		<module>jpa-embedded-id</module>
 		<module>jpa-enumerated</module>
 		<module>jpa-extents-single-table</module>
+		<module>jpa-extents-joined</module>
 	</modules>
 
 
