@@ -13,7 +13,7 @@ import org.junit.Test;
 /**
  * @author JE哥
  * @email 1272434821@qq.com
- * @description:继承测试
+ * @description:继承测试，需要先手动删除原来的表
  */
 public class MainTest {
   private static EntityManagerFactory entityManagerFactory = null;
@@ -51,13 +51,6 @@ public class MainTest {
     entityManager.clear();
     Student student = entityManager.find(Student.class, 1L);
     System.out.println(student.getSchool());
-  }
-  
-  @Test
-  public void find2() {
-    entityManager.clear();
-    Teacher teacher = entityManager.find(Teacher.class, 2L);
-    System.out.println(teacher.getAddress());
   }
 
   @After

@@ -47,7 +47,7 @@ public class MainTest {
   }
 
   @Test
-  public void find() {
+  public void find() throws Exception{
     entityManager.clear();
     Student student = entityManager.find(Student.class, 1L);
     System.out.println(student.getSchool());

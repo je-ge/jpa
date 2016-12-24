@@ -37,6 +37,7 @@
 		<module>jpa-enumerated</module>
 		<module>jpa-extents-single-table</module>
 		<module>jpa-extents-joined</module>
+		<module>jpa-extents-table-per-class</module>
 	</modules>
 
 
