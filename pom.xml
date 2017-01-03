@@ -38,6 +38,8 @@
 		<module>jpa-extents-single-table</module>
 		<module>jpa-extents-joined</module>
 		<module>jpa-extents-table-per-class</module>
+		<module>jpa-first-last-name</module>
+		<module>jpa-primary-jpa-uuid</module>		
 	</modules>
 
 

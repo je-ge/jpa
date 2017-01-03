@@ -16,7 +16,8 @@
 ##jpa-extents-single-table 继承-一个表-SINGLE_TABLE操作
 ##jpa-extents-joined 继承-联合子类-JOINED操作
 ##jpa-extents-table-per-class 继承-独立表-TABLE_PER_CLASS操作
-
+##jpa-first-last-name 自动把firstName+lastName合并为name字段操作
+##jpa-primary-jpa-uuid jpa-uuid主键生成策略操作
 
 **如果觉得我的代码对您有帮助,请打赏支持。您的支持将鼓励我继续创作!谢谢！**
 
