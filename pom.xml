@@ -41,7 +41,7 @@
 		<module>jpa-first-last-name</module>
 		<module>jpa-primary-jpa-uuid</module>	
 		<module>jpa2-element-collection-table</module>		
-		<module>jpa2-element-collection-table</module>	
+		<module>jpa2-element-collection-map-key</module>			
 	</modules>
 
 
